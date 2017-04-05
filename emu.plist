@@ -89,13 +89,13 @@
 
                <key>bundle-identifier</key>
 
-               <string>com.example.emu</string>
+               <string>com.explusalpha.A2600Emu</string>
 
                <!-- optional (software only) -->
 
                <key>bundle-version</key>
 
-               <string>1.0</string>
+               <string>1.5.29</string>
 
                <!-- required.  the download kind. -->
 
