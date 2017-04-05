@@ -1,34 +1,127 @@
-<?xml version="1.0" encoding="UTF-8"?>                                                                                                                                                                             
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
 <plist version="1.0">
+
 <dict>
-  <key>items</key>
-  <array>
-    <dict>  
-      <key>assets</key>
-      <array>   
-        <dict>      
-          <key>kind</key>
-          <string>software-package</string>
-          <key>url</key>
-          <!-- CHANGEME on next line -->
-          <string>https://hollr2099.net/ipas/2600.emu%20v1.5.29.ipa</string>
-        </dict>     
-      </array>  
-      <key>metadata</key>
-      <dict>    
-        <key>bundle-identifier</key>
-        <!-- CHANGEME on next line -->
-        <string>com.hollr2099.emu</string>
-        <key>bundle-version</key>
-        <string>10.0</string>
-        <key>kind</key>
-        <string>software</string>
-        <key>title</key>
-        <!-- CHANGEME on next line -->
-        <string>2600.emu</string>
-      </dict>   
-    </dict> 
-  </array>
+
+   <!-- array of downloads. -->
+
+   <key>items</key>
+
+   <array>
+
+       <dict>
+
+           <!-- an array of assets to download -->
+
+           <key>assets</key>
+
+           <array>
+
+               <!-- software-package: the ipa to install. -->
+
+               <dict>
+
+                   <!-- required.  the asset kind. -->
+
+                   <key>kind</key>
+
+                   <string>software-package</string>
+
+                  
+                   <!-- required.  the URL of the file to download. -->
+
+                   <key>url</key>
+
+                   <string>https://hollr2099.net/ipas/2600.emu%20v1.5.29.ipa</string>
+
+               </dict>
+
+               <!-- display-image: the icon to display during download. -->
+
+               <dict>
+
+                   <key>kind</key>
+
+                   <string>display-image</string>
+
+                   <!-- optional. icon needs shine effect applied. -->
+
+                   <key>needs-shine</key>
+
+                   <true/>
+
+                   <key>url</key>
+
+                   <string>http://www.example.com/image.57×57.png</string>
+
+               </dict>
+
+               <!-- full-size-image: the large 512×512 icon used by iTunes. -->
+
+               <dict>
+
+                   <key>kind</key>
+
+                   <string>full-size-image</string>
+
+                   <!-- optional.  one md5 hash for the entire file. -->
+
+                  
+                   <key>needs-shine</key>
+
+                   <true/>
+
+                   <key>url</key>
+
+                   <string>http://www.example.com/image.512×512.jpg</string>
+
+               </dict>
+
+           </array><key>metadata</key>
+
+           <dict>
+
+               <!-- required -->
+
+               <key>bundle-identifier</key>
+
+               <string>com.example.emu</string>
+
+               <!-- optional (software only) -->
+
+               <key>bundle-version</key>
+
+               <string>1.0</string>
+
+               <!-- required.  the download kind. -->
+
+               <key>kind</key>
+
+               <string>software</string>
+
+               <!-- optional. displayed during download; -->
+
+               <!-- typically company name -->
+
+               <key>subtitle</key>
+
+               <string>Apple</string>
+
+               <!-- required.  the title to display during the download. -->
+
+               <key>title</key>
+
+               <string>2066.emu</string>
+
+           </dict>
+
+       </dict>
+
+   </array>
+
 </dict>
+
 </plist>
