@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+<dict>
+
+   <!-- array of downloads. -->
+
+   <key>items</key>
+
+   <array>
+
+       <dict>
+
+           <!-- an array of assets to download -->
+
+           <key>assets</key>
+
+           <array>
+
+               <!-- software-package: the ipa to install. -->
+
+               <dict>
+
+                   <!-- required.  the asset kind. -->
+
+                   <key>kind</key>
+
+                   <string>software-package</string>
+
+                  
+                   <!-- required.  the URL of the file to download. -->
+
+                   <key>url</key>
+
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/8%20Ball%20Pool%20Tweaked%20v3.8.5.ipa</string>
+
+               </dict>
+
+               <!-- display-image: the icon to display during download. -->
+
+               <dict>
+
+                   <key>kind</key>
+
+                   <string>display-image</string>
+
+                   <!-- optional. icon needs shine effect applied. -->
+
+                   <key>needs-shine</key>
+
+                   <true/>
+
+                   <key>url</key>
+
+                   <string>http://www.example.com/image.57×57.png</string>
+
+               </dict>
+
+               <!-- full-size-image: the large 512×512 icon used by iTunes. -->
+
+               <dict>
+
+                   <key>kind</key>
+
+                   <string>full-size-image</string>
+
+                   <!-- optional.  one md5 hash for the entire file. -->
+
+                  
+                   <key>needs-shine</key>
+
+                   <true/>
+
+                   <key>url</key>
+
+                   <string>http://www.example.com/image.512×512.jpg</string>
+
+               </dict>
+
+           </array><key>metadata</key>
+
+           <dict>
+
+               <!-- required -->
+
+               <key>bundle-identifier</key>
+
+               <string>com.miniclip.8ballpoolmult</string>
+
+               <!-- optional (software only) -->
+
+               <key>bundle-version</key>
+
+               <string>3.8.0</string>
+
+               <!-- required.  the download kind. -->
+
+               <key>kind</key>
+
+               <string>software</string>
+
+               <!-- optional. displayed during download; -->
+
+               <!-- typically company name -->
+
+               <key>subtitle</key>
+
+               <string>Apple</string>
+
+               <!-- required.  the title to display during the download. -->
+
+               <key>title</key>
+
+               <string>8 Ball Pool++</string>
+
+           </dict>
+
+       </dict>
+
+   </array>
+
+</dict>
+
+</plist>
