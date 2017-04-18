@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Napster%2B%2B%20v5.7.1_002.ipa</string>
+                   <string>https://www.dropbox.com/s/1neorqfjje0cg2m/Napster%2B%2B%20v5.7.2_002.ipa</string>
 
                </dict>
 
@@ -95,7 +95,7 @@
 
                <key>bundle-version</key>
 
-               <string>1005.7.1</string>
+               <string>1005.7.2</string>
 
                <!-- required.  the download kind. -->
 
