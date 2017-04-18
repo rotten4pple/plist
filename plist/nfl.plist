@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Nfl%20GamePass%2B%2B%203.8.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Nfl%20GamePass%2B%2B%203.9.ipa</string>
 
                </dict>
 
@@ -95,7 +95,7 @@
 
                <key>bundle-version</key>
 
-               <string>6.0808</string>
+               <string>61216</string>
 
                <!-- required.  the download kind. -->
 
