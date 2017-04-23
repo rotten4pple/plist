@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/EveryCord%20v1.0.1.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/EveryCord%20v1.1.3.ipa</string>
 
                </dict>
 
@@ -89,13 +89,13 @@
 
                <key>bundle-identifier</key>
 
-               <string>jcom.adascreenrec.EveryCord</string>
+               <string>com.adatech.EveryCord</string>
 
                <!-- optional (software only) -->
 
                <key>bundle-version</key>
 
-               <string>1.0.1</string>
+               <string>1.1.3</string>
 
                <!-- required.  the download kind. -->
 
