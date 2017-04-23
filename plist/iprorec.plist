@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/iProRec%20v1.1.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/iProRec%20v2.1.ipa</string>
 
                </dict>
 
@@ -89,13 +89,13 @@
 
                <key>bundle-identifier</key>
 
-               <string>com.iProRec.appstore</string>
+               <string>com.iProRec.appstore3</string>
 
                <!-- optional (software only) -->
 
                <key>bundle-version</key>
 
-               <string>1.1</string>
+               <string>2.1</string>
 
                <!-- required.  the download kind. -->
 
