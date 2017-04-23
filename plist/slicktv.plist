@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Slick%20TV%20v1.0.1.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Slick%20TV%20v1.3.ipa</string>
 
                </dict>
 
@@ -89,7 +89,7 @@
 
                <key>bundle-identifier</key>
 
-               <string>come.slicktv.SlickTVApp</string>
+               <string>come.slicktv.slicktv-release</string>
 
                <!-- optional (software only) -->
 
