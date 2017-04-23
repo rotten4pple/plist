@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/YouTube%2B%2B%20v12.13_1.4r-29.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/YouTube%2B%2B%20v12.14_1.4r-36.ipa</string>
 
                </dict>
 
@@ -95,7 +95,7 @@
 
                <key>bundle-version</key>
 
-               <string>12.13.7</string>
+               <string>12.14.10</string>
 
                <!-- required.  the download kind. -->
 
