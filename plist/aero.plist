@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/AeroTV%20v1.0-b8.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/AeroTV%20v1.0-b15.ipa</string>
 
                </dict>
 
@@ -89,7 +89,7 @@
 
                <key>bundle-identifier</key>
 
-               <string>com.AeroTVTeam.AeroTV</string>
+               <string>com.AeroTVTeam.AeroTViOS</string>
 
                <!-- optional (software only) -->
 
