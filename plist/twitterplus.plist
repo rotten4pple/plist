@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Twitter%2B%2B%20v6.76_1.2r-49.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Twitter%2B%2B%20v6.78_1.2r-51.ipa</string>
 
                </dict>
 
@@ -95,7 +95,7 @@
 
                <key>bundle-version</key>
 
-               <string>6.76</string>
+               <string>6.78</string>
 
                <!-- required.  the download kind. -->
 
