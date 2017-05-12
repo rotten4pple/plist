@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/WhatsPad%2B%2B%202.16.20_1.6r-56.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/WhatsPad%2B%2B%202.17.21 T1.6r-74.ipa</string>
 
                </dict>
 
@@ -89,13 +89,13 @@
 
                <key>bundle-identifier</key>
 
-               <string>net.whatsapp.WhatsApp</string>
+               <string>com.kakaswr22.WAE9</string>
 
                <!-- optional (software only) -->
 
                <key>bundle-version</key>
 
-               <string>2.16.20</string>
+               <string>2.17.21</string>
 
                <!-- required.  the download kind. -->
 
