@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/WhatsApp%20Watusi%202.16.20_0.9.10.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/WhatsAppWatusi2.17.21_0.9.15.ipa</string>
 
                </dict>
 
@@ -89,13 +89,13 @@
 
                <key>bundle-identifier</key>
 
-               <string>com.ipwnstore.watusi</string>
+               <string>net.whatsapp.WhatsApp</string>
 
                <!-- optional (software only) -->
 
                <key>bundle-version</key>
 
-               <string>2.16.20</string>
+               <string>2.17.21</string>
 
                <!-- required.  the download kind. -->
 
