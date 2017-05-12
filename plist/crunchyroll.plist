@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Crunchyroll%2B%2B%203.00.4.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Crunchyroll%2B%2B%203.0.7.ipa</string>
 
                </dict>
 
@@ -95,7 +95,7 @@
 
                <key>bundle-version</key>
 
-               <string>3.00.4</string>
+               <string>3.0.7</string>
 
                <!-- required.  the download kind. -->
 
