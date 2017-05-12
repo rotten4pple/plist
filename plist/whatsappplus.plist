@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/WhatsApp%2B%2B%20v2.17.20_1.6r-74.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/WhatsApp%2B%2B%202.17.21 T1.6r-74.ipa</string>
 
                </dict>
 
@@ -95,7 +95,7 @@
 
                <key>bundle-version</key>
 
-               <string>2.17.20</string>
+               <string>2.17.21.55</string>
 
                <!-- required.  the download kind. -->
 
