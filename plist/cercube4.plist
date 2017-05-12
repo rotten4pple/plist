@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Cercube%204%20For%20YouTube%20v4.0.9.6.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Cercube%204%20For%20YouTube%20v4.0.9.7.ipa</string>
 
                </dict>
 
@@ -95,7 +95,7 @@
 
                <key>bundle-version</key>
 
-               <string>12.11.6</string>
+               <string>12.17.10</string>
 
                <!-- required.  the download kind. -->
 
