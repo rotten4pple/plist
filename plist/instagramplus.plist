@@ -36,7 +36,7 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Instagram%2B%2B%20v10.15_1.7r-85.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Instagram%2B%2B%20v10.20_1.7r-188.ipa</string>
 
                </dict>
 
@@ -95,7 +95,7 @@
 
                <key>bundle-version</key>
 
-               <string>10.15.0</string>
+               <string>10.20.0</string>
 
                <!-- required.  the download kind. -->
 
