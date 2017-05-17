@@ -36,52 +36,12 @@
 
                    <key>url</key>
 
-                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Deezer%2B%2B%206.18.0_002.ipa</string>
+                   <string>https://raw.githubusercontent.com/rotten4pple/plist/master/IPAs/Deezer%2B%2B%206.13.0_002.ipa</string>
 
                </dict>
 
-               <!-- display-image: the icon to display during download. -->
-
-               <dict>
-
-                   <key>kind</key>
-
-                   <string>display-image</string>
-
-                   <!-- optional. icon needs shine effect applied. -->
-
-                   <key>needs-shine</key>
-
-                   <true/>
-
-                   <key>url</key>
-
-                   <string>http://www.example.com/image.57×57.png</string>
-
-               </dict>
-
-               <!-- full-size-image: the large 512×512 icon used by iTunes. -->
-
-               <dict>
-
-                   <key>kind</key>
-
-                   <string>full-size-image</string>
-
-                   <!-- optional.  one md5 hash for the entire file. -->
-
-                  
-                   <key>needs-shine</key>
-
-                   <true/>
-
-                   <key>url</key>
-
-                   <string>http://www.example.com/image.512×512.jpg</string>
-
-               </dict>
-
-           </array><key>metadata</key>
+           </array>
+           <key>metadata</key>
 
            <dict>
 
